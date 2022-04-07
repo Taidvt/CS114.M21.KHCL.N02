@@ -1,4 +1,4 @@
-# CS114.M21.KHCL.N03
+# CS114.M21.KHCL.N02
 **Machine Learning**
 ## Group's members:
 | STT | Họ và Tên |MSSV|SDT|GMAIL|IMAGE|
