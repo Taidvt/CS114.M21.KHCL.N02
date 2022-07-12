@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
   </a>
 </p>
-<h1 align="center">Nhập môn thị giác máy tính - CS231-M21.KHCL</h1>
+<h1 align="center">MÁY HỌC - CS114-M21.KHCL</h1>
 
 # GIỚI THIỆU MÔN HỌC
 - *Tên môn học:* MÁY HỌC
