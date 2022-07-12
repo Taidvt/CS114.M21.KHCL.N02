@@ -1,5 +1,17 @@
-# CS114.M21.KHCL.N02
-**Machine Learning**
+<!-- Banner -->
+<p align="center">
+  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
+    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
+  </a>
+</p>
+<h1 align="center">Nhập môn thị giác máy tính - CS231-M21.KHCL</h1>
+
+# GIỚI THIỆU MÔN HỌC
+- *Tên môn học:* MÁY HỌC
+- *Mã môn học:* CS114
+- *Mã lớp:* CS114.M21.KHCL
+- *Năm học:* HK2 (2021 - 2022)
+- *Giảng viên:* ThS Phạm Nguyễn Trường An
 ## Group's members:
 | STT | Họ và Tên |MSSV|SDT|GMAIL|IMAGE|
 |---|---|---|---|---|---|
